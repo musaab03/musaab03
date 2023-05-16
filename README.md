@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently upskilling in the **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-musaab03.vercel.app/](https://portfolio-musaab03.vercel.app/)
+- 👨‍💻 A display of some of my projects can be found here [https://portfolio-musaab03.vercel.app/](https://portfolio-musaab03.vercel.app/)
 
 - 📫 How to reach me **musaabuppal15@gmail.com**
 
