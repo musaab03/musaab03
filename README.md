@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Musaab</h1>
 <h3 align="center">A passionate Full Stack developer from Manchester, UK</h3>
 
-- 🔭 I’m currently working on **something**
+- 🔭 I’m currently working on **a full stack lending platform**
 
 - 🌱 I’m currently upskilling in the **MERN stack**
 
